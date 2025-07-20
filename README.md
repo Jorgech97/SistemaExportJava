@@ -64,4 +64,6 @@ Se incluye GUI con mínimo 3 componentes:
 - NetBeans IDE 17+
 - Sistema operativo compatible con Java (Windows/Linux/MacOS)
 
-## 📂 Estructura del Proyecto
+## 📂 Ejemplo
+<img width="883" height="595" alt="image" src="https://github.com/user-attachments/assets/d48f47da-ed86-4fc7-adae-f43b32a47607" />
+
